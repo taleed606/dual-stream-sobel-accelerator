@@ -1,0 +1,51 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=sobel
+[Library]
+sobel=.\sobel\sobel.lib
+[$LibMap$]
+sobel=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+fileopenfolder=C:\Users\ASUS\Desktop\Computer Engineering\Advanced Architecture\Research Project\Project\Phase 2\Sobel\sobel\src
+[Files]
+/sobel_out.txt=-1
+/test.txt=-1
+/img_256.mem=-1
+/Absolute_Stage.sv=-1
+/Convolution_Stage.sv=-1
+/Fetch_Stage.sv=-1
+/Magnitude_Stage.sv=-1
+/Thresholding_Stage.sv=-1
+/RGB_to_grayscale.sv=-1
+/Top_One_Wide.sv=-1
+/Top_Two_Wide.sv=-1
+/Top_Two_Wide_tb.sv=-1
+/wave.asdb=-1
+[Files.Data]
+.\src\sobel_out.txt=Text File
+.\src\test.txt=Text File
+.\src\img_256.mem=Memory File
+.\src\Absolute_Stage.sv=SystemVerilog Source Code
+.\src\Convolution_Stage.sv=SystemVerilog Source Code
+.\src\Fetch_Stage.sv=SystemVerilog Source Code
+.\src\Magnitude_Stage.sv=SystemVerilog Source Code
+.\src\Thresholding_Stage.sv=SystemVerilog Source Code
+.\src\RGB_to_grayscale.sv=SystemVerilog Source Code
+.\src\Top_One_Wide.sv=SystemVerilog Source Code
+.\src\Top_Two_Wide.sv=SystemVerilog Source Code
+.\src\Top_Two_Wide_tb.sv=SystemVerilog Source Code
+.\src\wave.asdb=Accelerated Waveform File
+[HierarchyViewer]
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=

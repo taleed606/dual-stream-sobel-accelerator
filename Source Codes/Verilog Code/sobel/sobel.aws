@@ -1,0 +1,13 @@
+[Version]
+Version=15.0
+[Designs]
+sobel=sobel.adf
+[Settings]
+Active=sobel
+[Expand]
+sobel=1
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1

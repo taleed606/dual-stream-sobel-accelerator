@@ -1,0 +1,11 @@
+[Files List]
+C:/Aldec/Active-HDL-Student-Edition/vlib/std/src/standard.vhd=S
+C:/Users/ASUS/Desktop/Computer Engineering/Advanced Architecture/Research Project/Project/Phase 2/Sobel/sobel/src/Thresholding_Stage.sv=S
+C:/Users/ASUS/Desktop/Computer Engineering/Advanced Architecture/Research Project/Project/Phase 2/Sobel/sobel/src/Magnitude_Stage.sv=S
+C:/Users/ASUS/Desktop/Computer Engineering/Advanced Architecture/Research Project/Project/Phase 2/Sobel/sobel/src/Absolute_Stage.sv=S
+C:/Users/ASUS/Desktop/Computer Engineering/Advanced Architecture/Research Project/Project/Phase 2/Sobel/sobel/src/Convolution_Stage.sv=S
+C:/Users/ASUS/Desktop/Computer Engineering/Advanced Architecture/Research Project/Project/Phase 2/Sobel/sobel/src/Fetch_Stage.sv=S
+C:/Users/ASUS/Desktop/Computer Engineering/Advanced Architecture/Research Project/Project/Phase 2/Sobel/sobel/src/Top_One_Wide.sv=S
+C:/Users/ASUS/Desktop/Computer Engineering/Advanced Architecture/Research Project/Project/Phase 2/Sobel/sobel/src/RGB_to_grayscale.sv=S
+C:/Users/ASUS/Desktop/Computer Engineering/Advanced Architecture/Research Project/Project/Phase 2/Sobel/sobel/src/Top_Two_Wide.sv=S
+C:/Users/ASUS/Desktop/Computer Engineering/Advanced Architecture/Research Project/Project/Phase 2/Sobel/sobel/src/Top_Two_Wide_tb.sv=S

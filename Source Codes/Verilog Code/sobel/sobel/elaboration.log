@@ -1,0 +1,31 @@
+Active-HDL 15.0.261.9132 2026-01-20 20:18:34
+
+Elaboration top modules:
+Verilog Module                Top_Two_Wide_tb
+
+
+-------------------------------------------------------------------------------------------
+Verilog Module          | Library | Info | Compiler Version          | Compilation Options
+-------------------------------------------------------------------------------------------
+Top_Two_Wide_tb         | sobel   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+Top_Two_Wide            | sobel   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+RGB_to_grayscale        | sobel   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+Top_One_Wide            | sobel   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+Fetch_Stage             | sobel   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+Convolution_Stage       | sobel   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+Absolute_Stage          | sobel   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+Magnitude_Stage         | sobel   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+Thresholding_Stage      | sobel   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+-------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------
+Library                 | Comment
+-------------------------------------------------------------------------------------------
+sobel                   | None
+-------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim -O5 +access +r +m+Top_Two_Wide_tb Top_Two_Wide_tb
+
+
+The performance of simulation is reduced. Version Student Edition

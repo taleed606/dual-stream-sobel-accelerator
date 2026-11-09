@@ -1,0 +1,9 @@
+i<>.\src\Absolute_Stage.sv
+i<>.\src\Convolution_Stage.sv
+i<>.\src\Fetch_Stage.sv
+i<>.\src\Magnitude_Stage.sv
+i<>.\src\RGB_to_grayscale.sv
+i<>.\src\Thresholding_Stage.sv
+i<>.\src\Top_One_Wide.sv
+i<>.\src\Top_Two_Wide.sv
+i<>.\src\Top_Two_Wide_tb.sv

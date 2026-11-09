@@ -1,0 +1,127 @@
+timestamp=1768595457255
+
+[~A]
+C:/Users/ASUS/Desktop/Computer Engineering/Advanced Architecture/Research Project/Project/Phase 2/Sobel/sobel/src/Absolute_Stage.sv_Convolution_Stage.sv_Fetch_Stage.sv_Magnitude_Stage.sv_RGB_to_grayscale.sv_Thresholding_Stage.sv_Top_One_Wide.sv_Top_Two_Wide.sv_Top_Two_Wide_tb.sv=0*296673*300609
+C:/Users/ASUS/Desktop/Computer Engineering/Advanced Architecture/Research Project/Project/Phase 2/Sobel/sobel/src/Absolute_Stage.sv_Convolution_Stage.sv_Fetch_Stage.sv_Magnitude_Stage.sv_Thresholding_Stage.sv_RGB_to_grayscale.sv_Top_One_Wide.sv_Top_Two_Wide.sv_Top_Two_Wide_tb.sv=0*304579*308531
+C:/Users/ASUS/Desktop/Computer Engineering/Advanced Architecture/Research Project/Project/Phase 2/Sobel/sobel/src/Top_One_Wide.sv=0*283058*284220
+C:/Users/ASUS/Desktop/Computer Engineering/Advanced Architecture/Research Project/Project/Phase 2/Sobel/sobel/src/Top_Two_Wide.sv=0*292107*292964
+C:/Users/ASUS/Desktop/Computer Engineering/Advanced Architecture/Research Project/Project/Phase 2/Sobel/sobel/src/post.sv_mag.sv_abs.sv_conv.sv_fetch.sv_taleed.sv_to_grayscale.sv_top_2wide.sv_testbench_top_2wide.sv=0*262146*266001
+C:/Users/ASUS/Desktop/Computer Engineering/Advanced Architecture/Research Project/Project/Phase 2/Sobel/sobel/src/testbench_top_2wide.sv=0*257244*258557
+C:/Users/ASUS/Desktop/Computer Engineering/Advanced Architecture/Research Project/Project/Sobel/sobel/src/fetch.sv=0*177089*178187
+C:/Users/ASUS/Desktop/Computer Engineering/Advanced Architecture/Research Project/Project/Sobel/sobel/src/mag.sv_abs.sv_conv.sv_fetch.sv_to_grayscale.sv_taleed.sv_top_2wide.sv_testbench_top_2wide.sv=0*149278*152829
+C:/Users/ASUS/Desktop/Computer Engineering/Advanced Architecture/Research Project/Project/Sobel/sobel/src/mag.sv_abs.sv_design.sv_taleed.sv_conv.sv_testbench.sv_fetch.sv_top_2wide.sv_testbench_top_2wide.sv_to_grayscale.sv=0*198667*202593
+C:/Users/ASUS/Desktop/Computer Engineering/Advanced Architecture/Research Project/Project/Sobel/sobel/src/mag.sv_abs.sv_design.sv_taleed.sv_conv.sv_testbench.sv_fetch.sv_top_2wide.sv_testbench_top_2wide.sv_to_grayscale.sv_post.sv=0*206395*210553
+C:/Users/ASUS/Desktop/Computer Engineering/Advanced Architecture/Research Project/Project/Sobel/sobel/src/post.sv=0*211927*212720
+C:/Users/ASUS/Desktop/Computer Engineering/Advanced Architecture/Research Project/Project/Sobel/sobel/src/post.sv_taleed.sv=0*217010*218438
+C:/Users/ASUS/Desktop/Computer Engineering/Advanced Architecture/Research Project/Project/Sobel/sobel/src/taleed.sv=0*179356*180455
+C:/Users/ASUS/Desktop/Computer Engineering/Advanced Architecture/Research Project/Project/Sobel/sobel/src/taleed.sv_top_2wide.sv_testbench_top_2wide.sv=0*154716*156812
+C:/Users/ASUS/Desktop/Computer Engineering/Advanced Architecture/Research Project/Project/Sobel/sobel/src/testbench_top_2wide.sv=0*169942*171247
+C:/Users/ASUS/Desktop/Computer Engineering/Advanced Architecture/Research Project/Verilog Codes/Sobel/sobel/src/fetch.sv=0*63791*64863
+C:/Users/ASUS/Desktop/Computer Engineering/Advanced Architecture/Research Project/Verilog Codes/Sobel/sobel/src/fetch.sv_testbench.sv=0*56697*58295
+C:/Users/ASUS/Desktop/Computer Engineering/Advanced Architecture/Research Project/Verilog Codes/Sobel/sobel/src/mag.sv_abs.sv_design.sv_taleed.sv_conv.sv_testbench.sv_fetch.sv=0*11397*13677
+C:/Users/ASUS/Desktop/Computer Engineering/Advanced Architecture/Research Project/Verilog Codes/Sobel/sobel/src/testbench.sv=0*59349*60409
+D:/University/y4 s1/Advanced Architecture ENCS5331/Project/Phase 2/Sobel/sobel/src/abs.sv=0*116992*117649
+D:/University/y4 s1/Advanced Architecture ENCS5331/Project/Phase 2/Sobel/sobel/src/conv.sv=0*124397*125119
+D:/University/y4 s1/Advanced Architecture ENCS5331/Project/Phase 2/Sobel/sobel/src/design.sv=0*118481*118869
+D:/University/y4 s1/Advanced Architecture ENCS5331/Project/Phase 2/Sobel/sobel/src/fetch.sv=0*122201*123260
+D:/University/y4 s1/Advanced Architecture ENCS5331/Project/Phase 2/Sobel/sobel/src/mag.sv=0*115285*115910
+D:/University/y4 s1/Advanced Architecture ENCS5331/Project/Phase 2/Sobel/sobel/src/mag.sv_abs.sv_design.sv_taleed.sv_conv.sv_testbench.sv_fetch.sv=0*72226*74669
+D:/University/y4 s1/Advanced Architecture ENCS5331/Project/Phase 2/Sobel/sobel/src/mag.sv_abs.sv_design.sv_taleed.sv_conv.sv_testbench.sv_fetch.sv_top_2wide.sv_testbench_top_2wide.sv_to_grayscale.sv=0*142426*145993
+D:/University/y4 s1/Advanced Architecture ENCS5331/Project/Phase 2/Sobel/sobel/src/mag.sv_abs.sv_design.sv_taleed.sv_conv.sv_testbench.sv_fetch.sv_top_2wide.sv_testbench_top_2wide.sv_to_grayscale.sv_post.sv=0*229978*234097
+D:/University/y4 s1/Advanced Architecture ENCS5331/Project/Phase 2/Sobel/sobel/src/mag.sv_testbench_top_2wide.sv=0*103546*104979
+D:/University/y4 s1/Advanced Architecture ENCS5331/Project/Phase 2/Sobel/sobel/src/post.sv=0*245729*246403
+D:/University/y4 s1/Advanced Architecture ENCS5331/Project/Phase 2/Sobel/sobel/src/taleed.sv=0*138118*139146
+D:/University/y4 s1/Advanced Architecture ENCS5331/Project/Phase 2/Sobel/sobel/src/testbench.sv=0*135931*136978
+D:/University/y4 s1/Advanced Architecture ENCS5331/Project/Phase 2/Sobel/sobel/src/testbench_top_2wide.sv=0*237660*238926
+D:/University/y4 s1/Advanced Architecture ENCS5331/Project/Phase 2/Sobel/sobel/src/to_grayscale.sv=0*132119*132897
+D:/University/y4 s1/Advanced Architecture ENCS5331/Project/Phase 2/Sobel/sobel/src/top_2wide.sv=0*128033*128696
+D:/University/y4 s1/Advanced Architecture ENCS5331/Project/Phase 2/Sobel/sobel/src/top_2wide.sv_testbench_top_2wide.sv=0*112723*114178
+LastVerilogToplevel=Top_Two_Wide_tb
+ModifyID=156
+Version=74
+
+[~MFT]
+0=12|0sobel.mgf|308531|138831
+1=20|1sobel.mgf|623927|604199
+3=40|3sobel.mgf|475504|461954
+
+[$root]
+A/$root=22|||1*604199
+BinW64/$root=3*461954
+SLP=3*462069
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|c73a565f2ade592f8ac1c68f484c92161b6776156bcf4c1115d157a982c926ab
+
+[Absolute_Stage]
+A/Absolute_Stage=22|../src/Absolute_Stage.sv|4|1*604605
+BinW64/Absolute_Stage=3*462137
+R=../src/Absolute_Stage.sv|4
+SLP=3*462903
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|f8bcf0a39010cb4d51f8ed2f47540ebb09184586cb51718ae36b0c7d11f26fb918d0aae105f93309522adccadfe46141
+
+[Convolution_Stage]
+A/Convolution_Stage=22|../src/Convolution_Stage.sv|3|1*606158
+BinW64/Convolution_Stage=3*463301
+R=../src/Convolution_Stage.sv|3
+SLP=3*464533
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|57f14d46f6b9496e18f7ea25d1306274f0986ee9cee915db8334fec6c5f41c1d104638b44b0bfefa13b30b794b670f50
+
+[Fetch_Stage]
+A/Fetch_Stage=22|../src/Fetch_Stage.sv|6|1*608319
+BinW64/Fetch_Stage=3*465118
+R=../src/Fetch_Stage.sv|6
+SLP=3*467201
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|a4d266d3466fb2869978d000af33a7e8120cd0502942d1f921f071a3c0f140c218b0493c80f7951abb95bd9a7bf2f76c
+
+[Magnitude_Stage]
+A/Magnitude_Stage=22|../src/Magnitude_Stage.sv|4|1*611166
+BinW64/Magnitude_Stage=3*468261
+R=../src/Magnitude_Stage.sv|4
+SLP=3*468849
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|d26503f8d689970e2548d79d74aafe374a81ba4f9944187cf701cacaa652bd06d6fcab8261dcad0f1ae62f8c52eb77d7
+
+[RGB_to_grayscale]
+A/RGB_to_grayscale=22|../src/RGB_to_grayscale.sv|3|1*614212
+BinW64/RGB_to_grayscale=3*470174
+R=../src/RGB_to_grayscale.sv|3
+SLP=3*471559
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|7eda474e08325d98edeafa11bc3622ea56f81940676437a9bad4aafcb204452c31b4b696e2b4e9b433f4ee7490cdd096
+
+[Thresholding_Stage]
+A/Thresholding_Stage=22|../src/Thresholding_Stage.sv|4|1*612626
+BinW64/Thresholding_Stage=3*469179
+R=../src/Thresholding_Stage.sv|4
+SLP=3*469822
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|8e63ffaedc5a488b184a7a55e9b64a53c30f382d514374aa991b4d52b268d97e43d77fdfb40405a03791eed1c2516955
+
+[Top_One_Wide]
+A/Top_One_Wide=22|../src/Top_One_Wide.sv|2|1*617479
+BinW64/Top_One_Wide=3*472626
+R=../src/Top_One_Wide.sv|2
+SLP=3*472963
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|73cc91b3bfd3264aa5a5308d86652ecc6dd2e9a9a11681c8e8babd861925a6a723de6f5c5ef873b476fc22cd136c93fa
+
+[Top_Two_Wide]
+A/Top_Two_Wide=22|../src/Top_Two_Wide.sv|3|1*621575
+BinW64/Top_Two_Wide=3*473187
+R=../src/Top_Two_Wide.sv|3
+SLP=3*473309
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|bd6498667e8ab82e278def4715fa1e71f0c96d389e426c4faa37854b840902fb22f40e450a6fddb32c7f9a9c1899f171
+
+[Top_Two_Wide_tb]
+A/Top_Two_Wide_tb=22|../src/Top_Two_Wide_tb.sv|3|1*623927
+BinW64/Top_Two_Wide_tb=3*473506
+R=../src/Top_Two_Wide_tb.sv|3
+SLP=3*475504
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|3efc9e35a0aac736ce1c1628846c025afbbefba0c8c531b376fe2eeabd18139c08eb9c694ef57e0ad888cd8b4075f7a1
+
+[~U]
+$root=12|0*301545|
+Absolute_Stage=12|0*301871|
+Convolution_Stage=12|0*302143|
+Fetch_Stage=12|0*302454|
+Magnitude_Stage=12|0*302781|
+RGB_to_grayscale=12|0*303335|
+Thresholding_Stage=12|0*303050|
+Top_One_Wide=12|0*303641|
+Top_Two_Wide=12|0*303956|
+Top_Two_Wide_tb=12|0*304319||0x10
